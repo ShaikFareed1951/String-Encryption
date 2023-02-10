@@ -29,10 +29,10 @@ To execute the code, save it to a file with a .py extension and run it using a P
 # Example Of Code Execution
 
 Here's an example of what running the code might look like:
-Enter plaintext: Hello World
-Enter shift: 3
-Plaintext: Hello World
-Ciphertext: Khoor Zruog
+     1.Enter plaintext: Hello World
+     2.Enter shift: 3
+     3.Plaintext: Hello World
+     4.Ciphertext: Khoor Zruog
 
 In this example, the user entered the plaintext Hello World and a shift value of 3. The encrypted message Khoor Zruog was generated and displayed as the output.
 
